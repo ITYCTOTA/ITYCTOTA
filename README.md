@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align="center">  <h1>Имя / Ник</h1>  <p>1–2 строки про себя</p></div>
 
 <!--
 **ITYCTOTA/ITYCTOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
